@@ -11,3 +11,6 @@ A plan for python learing
 链接：https://www.zhihu.com/question/20702054/answer/42847756
 来源：知乎
 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+
+完成情况：
+20180409 完成任务1
